@@ -1,2 +1,1 @@
-1. Add new line.
-2. Add a second line.
+1. Add old line.
